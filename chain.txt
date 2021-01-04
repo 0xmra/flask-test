@@ -1,0 +1,251 @@
+1	McDonald's	$38,524	13,914	Quick Service	Burger
+2	Starbucks	$19,660*	14,606	Quick Service	Coffee Cafe
+3	Subway	$10,410	24,798	Quick Service	Sandwich
+4	Taco Bell	$10,360	6,588	Quick Service	Mexican
+5	Chick-fil-A	$10,180*	2,370	Quick Service	Chicken
+6	Burger King	$9,939	7,330	Quick Service	Burger
+7	Wendy's	$9,405	5,810	Quick Service	Burger
+8	Dunkin'	$8,786	9,419	Quick Service	Coffee Cafe
+9	Domino's	$6,591	5,876	Quick Service	Pizza
+10	Panera Bread	$5,760*	2,074	Fast Casual	Bakery Cafe
+11	Pizza Hut	$5,526	7,482	Quick Service	Pizza
+12	Chipotle Mexican Grill	$4,805	2,452	Fast Casual	Mexican
+13	Sonic Drive-In	$4,447	3,606	Quick Service	Burger
+14	KFC	$4,433	4,074	Quick Service	Chicken
+15	Applebee's	$4,211	1,693	Casual Dining	Varied Menu
+16	Olive Garden	$4,082	855	Casual Dining	Italian/Pizza
+17	Arby's	$3,886	3,329	Quick Service	Sandwich
+18	Little Caesars	$3,820*	4,350	Quick Service	Pizza
+19	Buffalo Wild Wings	$3,795	1,208	Casual Dining	Sports Bar
+20	Dairy Queen	$3,654	4,406	Quick Service	Frozen Desserts
+21	Panda Express	$3,523	2,105	Fast Casual	Asian/Noodle
+22	Chili's Grill & Bar	$3,500*	1,251	Casual Dining	Varied Menu
+23	Jack in the Box	$3,466	2,237	Quick Service	Burger
+24	IHOP	$3,233	1,705	Midscale	Family Style
+25	Popeyes Louisiana Kitchen	$3,221	2,347	Quick Service	Chicken
+26	Texas Roadhouse	$2,720*	533	Casual Dining	Steak
+27	Papa John's	$2,712	3,199	Quick Service	Pizza
+28	Denny's	$2,661	1,578	Midscale	Family Style
+29	Outback Steakhouse	$2,611	733	Casual Dining	Steak
+30	Cracker Barrel	$2,439	655	Midscale	Family Style
+31	Whataburger	$2,416	825	Quick Service	Burger
+32	Red Lobster	$2,405*	678	Casual Dining	Seafood
+33	Jimmy John's Gourmet Sandwiches	$2,168*	2,840	Fast Casual	Sandwich
+34	The Cheesecake Factory	$2,127	201	Casual Dining	Varied Menu
+35	Hardee's	$2,120*	1,875	Quick Service	Burger
+36	Zaxby's	$1,849*	906	Fast Casual	Chicken
+37	LongHorn Steakhouse	$1,754	520	Casual Dining	Steak
+38	Golden Corral	$1,732	489	Quick Service	Family Casual
+39	Five Guys Burgers and Fries	$1,615	1,358	Fast Casual	Burger
+40	Culver's	$1,576	686	Quick Service	Burger
+41	Red Robin Gourmet Burgers and Brews	$1,506	555	Casual Dining	Varied Menu
+42	Carl's Jr.	$1,415*	1,148	Quick Service	Burger
+43	Waffle House	$1,300*	1,936	Midscale	Family Style
+44	Bojangles'	$1,296	756	Quick Service	Chicken
+45	Wingstop	$1,207	1,124	Fast Casual	Chicken
+46	Raising Cane's Chicken Fingers	$1,183	400	Fast Casual	Chicken
+47	TGI Fridays	$1,183*	424	Casual Dining	Varied Menu
+48	Jersey Mike's Subs	$1,148	1,494	Fast Casual	Sandwich
+49	BJ's Restaurant & Brewhouse	$1,116	202	Casual Dining	Varied Menu
+50	Steak ‘n Shake	$1,034*	594	Quick Service	Burger
+51	In-N-Out Burger	$926*	339	Quick Service	Burger
+52	P.F. Chang's	$877	216	Casual Dining	Asian
+53	El Pollo Loco	$868	484	Quick Service	Chicken
+54	Bob Evans	$838*	481	Midscale	Family Style
+55	Qdoba Mexican Eats	$835	743	Fast Casual	Mexican
+56	Del Taco	$817	580	Quick Service	Mexican
+57	Krispy Kreme	$805*	355	Quick Service	Specialty
+58	Hooters	$798*	338	Casual Dining	Sports Bar
+59	Papa Murphy's Pizza	$795	1,400	Quick Service	Pizza
+60	Firehouse Subs	$794	1,133	Fast Casual	Sandwich
+61	Tim Hortons	$750*	738	Quick Service	Coffee Cafe
+62	Ruth's Chris Steak House	$748	134	Fine Dining	Steak
+63	Church's Chicken	$747*	1,045	Quick Service	Chicken
+64	Moe's Southwest Grill	$739*	727	Fast Casual	Mexican
+65	Cheddar's Scratch Kitchen	$728	170	Casual Dining	Varied Menu
+66	Jason's Deli	$721	281	Fast Casual	Sandwich
+67	Ruby Tuesday	$721*	491	Casual Dining	Varied Menu
+68	McAlister's Deli	$704*	430	Fast Casual	Sandwich
+69	Carrabba's Italian Grill	$659	227	Casual Dining	Italian/Pizza
+70	California Pizza Kitchen	$639*	205	Casual Dining	Italian/Pizza
+71	Baskin-Robbins	$611	2,550	Quick Service	Frozen Desserts
+72	Perkins Restaurant & Bakery	$603*	355	Midscale	Family Style
+73	Marco's Pizza	$599	883	Quick Service	Pizza
+74	Bonefish Grill	$592	197	Casual Dining	Seafood
+75	Yard House	$571	72	Casual Dining	Varied Menu
+76	Checkers Drive-In Restaurants	$560*	590	Quick Service	Burger
+77	Auntie Anne's	$558	1,295	Quick Service	Specialty
+78	Boston Market	$557	454	Fast Casual	Chicken
+79	Captain D's Seafood Kitchen	$556	529	Quick Service	Specialty
+80	White Castle	$556	374	Quick Service	Burger
+81	Dave & Buster's	$539*	118	Casual Dining	Sports Bar
+82	Noodles & Co.	$525	459	Fast Casual	Asian/Noodle
+83	Logan's Roadhouse	$520*	202	Casual Dining	Steak
+84	Einstein Bros. Bagels	$516*	690	Fast Casual	Bakery Cafe
+85	Dutch Bros. Coffee	$494	328	Quick Service	Coffee Cafe
+86	Jamba Juice	$491*	805	Quick Service	Specialty
+87	Freddy's Frozen Custard & Steakburgers	$474	328	Fast Casual	Burger
+88	Tropical Smoothie Cafe	$472	719	Quick Service	Specialty
+89	O'Charley's	$463*	205	Casual Dining	Varied Menu
+90	Shake Shack	$459	136	Fast Casual	Burger
+91	Potbelly Sandwich Shop	$452	470	Quick Service	Sandwich
+92	The Capital Grille	$440	58	Fine Dining	Steak
+93	Long John Silver's	$440	871	Quick Service	Specialty
+94	The Habit Burger Grill	$436	247	Fast Casual	Burger
+95	Round Table Pizza	$436*	427	Quick Service	Pizza
+96	Mellow Mushroom	$425*	191	Casual Dining	Italian/Pizza
+97	Smoothie King	$415	901	Quick Service	Specialty
+98	Miller's Ale House	$415*	88	Casual Dining	Sports Bar
+99	Maggiano's Little Italy	$413	52	Casual Dining	Italian/Pizza
+100	First Watch	$413	295	Midscale	Family Style
+101	Hungry Howie's Pizza	$410	548	Quick Service	Pizza
+102	Dickey's Barbecue Pit	$401*	526	Fast Casual	Specialty
+103	Charleys Philly Steaks	$400*	530	Quick Service	Sandwich
+104	Chuy's	$398	100	Casual Dining	Mexican
+105	MOD Pizza	$397	404	Fast Casual	Pizza
+106	Chuck E. Cheese's	$383*	541	Quick Service	Pizza
+107	Portillo's	$381*	57	Fast Casual	Sandwich
+108	Pollo Tropical	$379	145	Fast Casual	Chicken
+109	Krystal Company	$377	356	Quick Service	Burger
+110	Cold Stone Creamery	$374*	917	Quick Service	Frozen Desserts
+111	Zoes Kitchen	$372*	260	Fast Casual	Sandwich
+112	Taco John's	$371	392	Quick Service	Mexican
+113	Pappadeaux Seafood Kitchen	$365*	40	Casual Dining	Seafood
+114	Corner Bakery Cafe	$362	182	Fast Casual	Bakery Cafe
+115	Famous Dave's	$358	144	Casual Dining
+116	Jet's Pizza	$356*	397	Quick Service	Pizza
+117	Schlotzsky's	$351*	372	Fast Casual	Sandwich
+118	Cicis	$350*	423	Quick Service	Pizza
+119	Saltgrass Steak House	$349*	80	Casual Dining	Steak
+120	On The Border Mexican Grill & Cantina	$348	143	Casual Dining	Mexican
+121	Village Inn	$347*	209	Midscale	Family Style
+122	Twin Peaks	$343	84	Casual Dining	Sports Bar
+123	Au Bon Pain	$339*	213	Fast Casual	Bakery Cafe
+124	Texas de Brazil Churrascaria	$334*	53	Casual Dining	Steak
+125	Blaze Pizza	$326	296	Fast Casual	Pizza
+126	Taco Cabana	$324	170	Fast Casual	Mexican
+127	Bar Louie	$309*	134	Casual Dining	Varied Menu
+128	Pei Wei Asian Diner	$306*	180	Fast Casual	Asian/Noodle
+129	Ninety Nine Restaurants	$305*	105	Casual Dining	Varied Menu
+130	Fleming's Prime Steakhouse & Wine Bar	$304	70	Fine Dining	Steak
+131	Benihana	$297*	65	Casual Dining	Asian
+132	Fogo de Chao	$294*	38	Casual Dining	Steak
+133	Smashburger	$294*	322	Fast Casual	Burger
+134	Black Bear Diner	$291	120	Midscale	Family Style
+135	Rally's Hamburgers	$289*	300	Quick Service	Burger
+136	Caribou Coffee	$286*	394	Quick Service	Coffee Cafe
+137	Cooper's Hawk Winery & Restaurants	$282	35	Casual Dining	Varied Menu
+138	Peet's Coffee & Tea	$282*	244	Quick Service	Coffee Cafe
+139	Big Boy/Frisch's Big Boy	$275*	203	Midscale	Family Style
+140	Sarku Japan	$274	225	Quick Service	Asian/Noodle
+141	Sizzler	$266	130	Quick Service	Family Casual
+142	Bill Miller Bar-B-Q	$259*	74	Midscale
+143	Old Chicago Pizza & Taproom	$256	109	Casual Dining	Varied Menu
+144	Wienerschnitzel	$256*	325	Quick Service	Sandwich
+145	Pizza Ranch	$249	207	Quick Service	Pizza
+146	Seasons 52	$249	42	Casual Dining	Varied Menu
+147	Friendly's	$248	201	Midscale	Family Style
+148	Braum's Ice Cream & Dairy Stores	$246*	265	Quick Service	Frozen Desserts
+149	Morton's The Steakhouse	$246*	65	Fine Dining	Steak
+150	Huddle House	$245	351	Midscale	Family Style
+151	Legal Sea Foods	$240*	35	Casual Dining	Seafood
+152	Pret a Manger	$240*	92	Fast Casual	Bakery Cafe
+153	Godfather's Pizza	$240*	548	Quick Service	Pizza
+154	Bahama Breeze Island Grille	$239	40	Casual Dining	Varied Menu
+155	Sbarro	$236*	345	Quick Service	Pizza
+156	Cafe Rio Mexican Grill	$236*	118	Fast Casual	Mexican
+157	Rubio's	$232	204	Fast Casual	Mexican
+158	Fazoli's	$231	215	Fast Casual	Specialty
+159	Mastro's Restaurants	$230*	17	Fine Dining	Steak
+160	Romano's Macaroni Grill	$229*	88	Casual Dining	Italian/Pizza
+161	Newk's Eatery	$226	122	Fast Casual	Sandwich
+162	Brio Tuscan Grille	$226*	58	Casual Dining	Italian/Pizza
+163	A&W All-American Food	$223	615	Quick Service	Burger
+164	Which Wich	$222*	425	Fast Casual	Sandwich
+165	Fuzzy's Taco Shop	$214*	148	Fast Casual	Mexican
+166	Uncle Julio's	$214*	35	Casual Dining	Mexican
+167	Torchy's Tacos	$213*	63	Fast Casual	Mexican
+168	Beef ‘O' Brady's	$212*	172	Casual Dining	Sports Bar
+169	Hard Rock Cafe	$211*	42	Casual Dining	Varied Menu
+170	Souplantation & Sweet Tomatoes	$211*	90	Quick Service	Family Casual
+171	Luby's	$210	84	Quick Service	Family Casual
+172	Sonny's BBQ	$209*	101	Midscale
+173	Uno Pizzeria & Grill	$208*	95	Casual Dining	Italian/Pizza
+174	Johnny Rockets	$207	175	Casual Dining	Varied Menu
+175	Penn Station East Coast Subs	$200	310	Fast Casual	Sandwich
+176	Claim Jumper	$197*	37	Casual Dining	Varied Menu
+177	Fuddruckers	$197*	153	Fast Casual	Burger
+178	Cinnabon	$190*	917	Quick Service	Specialty
+179	Buca di Beppo	$189*	77	Casual Dining	Italian/Pizza
+180	Shoney's	$187*	127	Midscale	Family Style
+181	Bubba Gump Shrimp Co.	$187*	27	Casual Dining	Seafood
+182	Del Frisco's Double Eagle Steak House	$182	16	Fine Dining	Steak
+183	Mimi's Cafe	$181*	79	Casual Dining	Varied Menu
+184	Houlihan's	$181	67	Casual Dining	Varied Menu
+185	J. Alexander's	$181*	32	Casual Dining	Varied Menu
+186	Joe's Crab Shack	$180*	57	Casual Dining	Seafood
+187	McCormick & Schmick's	$179*	41	Casual Dining	Seafood
+188	Firebirds Wood Fired Grill	$179	48	Casual Dining	Varied Menu
+189	Donatos Pizza	$176*	170	Fast Casual	Pizza
+190	Lazy Dog Restaurant & Bar	$175	30	Casual Dining	Varied Menu
+191	Old Country Buffet/HomeTown Buffet	$175*	65	Quick Service	Family Casual
+192	Pappasito's Cantina	$175*	25	Casual Dining	Mexican
+193	The Melting Pot	$173*	108	Casual Dining	Varied Menu
+194	Le Pain Quotidien	$172*	98	Fast Casual	Bakery Cafe
+195	Golden Chick	$171	183	Quick Service	Chicken
+196	Islands Fine Burgers & Drinks	$171*	56	Casual Dining	Varied Menu
+197	La Madeleine Country French Cafe	$170	87	Fast Casual	Bakery Cafe
+198	Wetzel's Pretzels	$170	335	Quick Service	Specialty
+199	Great Harvest Bread Co.	$170*	183	Fast Casual	Bakery Cafe
+200	Smokey Bones Bar & Fire Grill	$170*	63	Casual Dining
+201	Taco Bueno	$170*	169	Fast Casual	Mexican
+202	The Original Pancake House	$168*	132	Midscale	Family Style
+203	True Food Kitchen	$167	25	Casual Dining	Varied Menu
+204	Mountain Mike's Pizza	$163	204	Quick Service	Pizza
+205	Jack's	$163*	160	Quick Service	Burger
+206	Lucille's Smokehouse Bar-B-Que	$162*	24	Casual Dining
+207	Eat'n Park	$162	68	Midscale	Family Style
+208	The Coffee Bean & Tea Leaf	$162*	315	Quick Service	Coffee Cafe
+209	Kona Grill	$162*	44	Casual Dining	Asian
+210	LaRosa's Pizzeria	$158	64	Midscale	Italian/Pizza
+211	Sweetgreen	$158*	92	Fast Casual	Specialty
+212	Menchie's Frozen Yogurt	$157*	440	Quick Service	Frozen Desserts
+213	Anthony's Coal Fired Pizza	$154*	215	Fast Casual	Italian/Pizza
+214	Bruegger's Bagels	$154*	67	Casual Dining	Bakery Cafe
+215	Harsh Sinha's shop $152*	92	Fast Casual	Burger
+216	Roosters	$152*	41	Casual Dining	Varied Menu
+217	Hurricane Grill & Wings	$150*	56	Casual Dining	Sports Bar
+218	Giordano's	$148*	71	Casual Dining	Italian/Pizza
+219	The Old Spaghetti Factory	$147*	42	Casual Dining	Italian/Pizza
+220	Grand Lux Cafe	$146*	14	Casual Dining	Varied Menu
+221	Wayback Burgers	$144*	149	Fast Casual	Burger
+222	Rainforest Cafe	$144*	19	Casual Dining	Varied Menu
+223	PDQ	$142*	67	Fast Casual	Chicken
+224	Pizza Pro	$142*	468	Quick Service	Pizza
+225	Pollo Campero	$141	80	Fast Casual	Chicken
+226	Duffy's Sports Grill	$141*	34	Casual Dining	Sports Bar
+227	Tijuana Flats	$141*	135	Fast Casual	Mexican
+228	Black Angus Steakhouse	$165*	44	Casual Dining	Steak
+229	Quiznos	$139*	323	Quick Service	Sandwich
+230	Shari's Cafe and Pies	$139*	92	Midscale	Family Style
+231	Biggby Coffee	$138*	265	Quick Service	Coffee Cafe
+232	Rosati's Pizza	$138*	210	Quick Service	Pizza
+233	Bertucci's	$137*	58	Casual Dining	Italian/Pizza
+234	Yogurtland	$136*	273	Quick Service	Frozen Desserts
+235	BurgerFi	$134	104	Fast Casual	Burger
+236	Lee's Famous Recipe Chicken	$134*	130	Quick Service	Chicken
+237	Eddie V's Prime Seafood	$133	19	Casual Dining	Seafood
+238	Great American Cookies	$131*	352	Quick Service	Specialty
+239	Bravo! Cucina Italiana	$131*	45	Casual Dining	Italian/Pizza
+240	Baja Fresh Mexican Grill	$130*	135	Quick Service	Mexican
+241	Slim Chickens	$129*	75	Fast Casual	Chicken
+242	The Brass Tap	$128*	48	Casual Dining	Sports Bar
+243	WaBa Grill	$127	191	Fast Casual	Asian/Noodle
+244	STK	$127*	11	Fine Dining	Steak
+245	54th Street Restaurant & Drafthouse	$125	29	Casual Dining	Varied Menu
+246	Metro Diner	$125	67	Midscale	Family Style
+247	Freebirds World Burrito	$123*	73	Fast Casual	Mexican
+248	Togo's Sandwiches	$123*	205	Quick Service	Sandwich
+249	Costa Vida Fresh Mexican Grill	$123	91	Fast Casual	Mexican
+250	L&L Hawaiian Barbecue	$123*	188	Quick Service	Specialty
+251 Hopcat $303
